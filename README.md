@@ -1,2 +1,2 @@
 # Systems-Lab8
-Automate file uploads to AWS S3 Bucket.
+This is a small section of code used to automate file uploads to AWS S3 Bucket.
